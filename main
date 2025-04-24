@@ -1,0 +1,9 @@
+def f(t,p):
+    lp=len(p)
+    tab=[]
+    for i in range (len(t)):
+        if(t[i:i+lp]==p):
+            tab.append(i)
+    return tab
+
+print(f("abcabcabc","abc"))
