@@ -1,3 +1,3 @@
-# Pierwszy projekt
+# H.G.88
 
-Test readme
+Jedno wymagane zadanie opublikowane przez GitHub
