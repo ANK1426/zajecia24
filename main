@@ -24,7 +24,7 @@ def generate_list(n, ranges, types): #ranges to krotka dwuelementowa, zawierają
                     listy.append(ai)
         elif types == float:
 
-
+#np. generate_list([5,3,4], [3.2,7.3], float)
 
 
 def generate_tuple(lenght, n, ranges, types): #tutaj podobnie, tylko dla krotek
@@ -43,3 +43,5 @@ def generate_tuple(lenght, n, ranges, types): #tutaj podobnie, tylko dla krotek
                     listy.append(ai)
 
     return listy
+
+#np. generate_tuple(5, 1, [5.1, 11.3], float)
